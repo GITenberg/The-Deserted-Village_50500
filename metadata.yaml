@@ -1,9 +1,13 @@
 _repo: The-Deserted-Village_50500
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Club, The Etching
     gutenberg_agent_id: '45939'
     url: http://www.gutenberg.org/2009/agents/45939
+covers:
+- cover_type: archival
+  image_path: 50500-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldsmith, Oliver
@@ -13,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/211
     wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50500#The-Deserted-Village
 gutenberg_issued: '2015-11-19'
 gutenberg_type: Text
 identifiers:
